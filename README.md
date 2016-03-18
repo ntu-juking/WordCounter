@@ -1,7 +1,7 @@
 # WordCounter
 Count the words
 
-
+http://www.cnblogs.com/xinz/archive/2010/11/28/1890291.html
 MSRA Advanced Software Engineering
 
 Project:  Individual Project - Word frequency program
